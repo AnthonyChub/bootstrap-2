@@ -1,0 +1,16 @@
+.grid{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.container{
+    padding: 20px;
+}
+
+#cebecalho{
+    background-color: rgb(56, 56, 57);
+    color: #fff;
+}
+
+#fale{
+    padding-top: 80px;
+}
